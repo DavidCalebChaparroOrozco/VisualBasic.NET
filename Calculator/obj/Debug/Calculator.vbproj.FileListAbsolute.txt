@@ -1,0 +1,13 @@
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\bin\Debug\Calculator.exe
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\bin\Debug\Calculator.pdb
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\bin\Debug\Calculator.xml
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.exe
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.xml
+C:\Users\salas\Desktop\VisualBasic.NET\Calculator\obj\Debug\Calculator.pdb
